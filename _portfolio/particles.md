@@ -5,9 +5,15 @@ header:
   image: /images/part_running.gif
   teaser: /images/part_running.gif
   
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+gallery1:
+  - url: /images/part1.png
+    image_path: /images/part1.png
+gallery2:
+  - url: /images/partdoc1.png
+    image_path: /images/partdoc1.png
+gallery3:
+  - url: /images/partdoc2.png
+    image_path: /images/partdoc2.png
 ---
 
 ## Particles
@@ -19,7 +25,7 @@ Particles is an interactive Virtual Reality experience where the guest is able t
 This project was displayed in the 2024 pop-up exhibition at Bird Block Gallery and Ceramics Studio “Bird Bonk”. It was made to be a simple interaction so that all ages and experience levels would be able to put on the headset and understand what to do.
 
 
- <img src="/images/part1.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
+{% include gallery id="gallery1" caption="A screen shot of Particles in Unreal Engine" %}
 
 **Development**
 
