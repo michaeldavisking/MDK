@@ -2,8 +2,8 @@
 title: "Particles"
 excerpt: "Interactable particles in Virtual Reality. Made in Unreal Engine, November, 2024"
 header:
-  image: //images/part_running.gif
-  teaser: //images/part_running.gif
+  image: /images/part_running.gif
+  teaser: /images/part_running.gif
   
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
