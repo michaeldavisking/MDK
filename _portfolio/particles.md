@@ -1,6 +1,6 @@
 ---
 title: "Particles"
-excerpt: "Vitural Reality Interactable Niagara Particle"
+excerpt: "Interactable particles in Virtual Reality. Made in Unreal Engine, November, 2024"
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
