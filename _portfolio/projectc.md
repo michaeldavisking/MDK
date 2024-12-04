@@ -20,9 +20,6 @@ gallery4:
 gallery5:
   - url: /images/Boids.gif
     image_path: /images/Boids.gif
-gallery6:
-  - url: /images/Transmutation_Sound_Examples.mp4
-    image_path: /images/Transmutation_Sound_Examples.mp4
 ---
 
 **Introduction**
@@ -37,9 +34,7 @@ Development for this project was done by Myself and my cohort member Stella Park
 
 I also designed the lighting and sound for the environment. I wanted a balance of lighting so the scene was navigable and warm while still providing a layer of unease. The sounds in the scene help to establish a more immersive environment and keep the game from being too silent. This is mainly accomplished through the ambient storm which has lighting added through a rect light that increases in intensity.
 
-  <div class="responsive-video-container">
-    <iframe src="{{[Transmutation_Ambient.mp4](https://github.com/michaeldavisking/MDK/blob/78592fc371e1d2e0533cdc3e22294d0c69de5d05/images/Transmutation_Ambient.mp4)}}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
-  </div>
+{% include video id="-PVofD2A9t8" provider="youtube" %}
   
 The sounds were sourced from sound libraries and recorded by me. There is a blend of spatial noise and non spatial sound volumes. This ensures that sounds are heard properly in the spaces they should play.
 
