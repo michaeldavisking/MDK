@@ -1,6 +1,6 @@
 ---
 title: "Night In The Manison VR"
-excerpt: "A Virtual Reality Halloween game made in unity October 2023"
+excerpt: "A Virtual Reality Halloween game. Made in Unity, October, 2023"
 header:
   image: /images/nitmprof.png
   teaser: /images/nitmprof.png
