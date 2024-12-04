@@ -2,8 +2,8 @@
 title: "Night In The Manison VR"
 excerpt: "A Virtual Reality Halloween game made in unity October 2023"
 header:
-  image: /images/part_running.gif
-  teaser: /images/part_running.gif
+  image: /images/nitmprof.png
+  teaser: /images/nitmprof.png
   
 gallery1:
   - url: /images/nitm_1.png
@@ -15,8 +15,8 @@ gallery3:
   - url: /images/nitmcode2.png
     image_path: /images/nitmcode2.png
 gallery4:
-  - url: /images/partdoc2.png
-    image_path: /images/part_space.jpg
+  - url: /images/nitm_2.png
+    image_path: /images/nitm_2.png
 gallery5:
   - url: /images/Boids.gif
     image_path: /images/Boids.gif
@@ -44,7 +44,7 @@ I was in charge of Level Design, Lighting, and Sound. I also worked on some C# c
 
 The level was made using Synthy assets from the Unity Asset Store. Game object segments were assembled to make a small room of the mansion along with an outdoor scene and a secret room.
 
-<img src="images/nitm_2.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
+{% include gallery id="gallery4" caption="The view outside the level window with rain particles" %}
 
 The sounds were sourced from sound libraries and recorded by me. All sound in the game was spacialized so that players would hear different sounds depending on their location in the scene. For example the window of the room had a blend of the indoor rain sound and an outdoor rain sound.
 
