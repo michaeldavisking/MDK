@@ -9,8 +9,8 @@ gallery1:
   - url: /images/transmutation_Layout.png
     image_path: /images/transmutation_Layout.png
 gallery2:
-  - url: /images/partdoc1.png
-    image_path: /images/partdoc1.png
+  - url: /images/transumtationblend.gif
+    image_path: /images/transumtationblend.gif
 gallery3:
   - url: /images/partdoc2.png
     image_path: /images/partdoc2.png
@@ -40,6 +40,8 @@ I also designed the lighting and sound for the environment. I wanted a balance o
 The sounds were sourced from sound libraries and recorded by me. There is a blend of spatial noise and non spatial sound volumes. This ensures that sounds are heard properly in the spaces they should play.
 
 My other area of focus was on the AI monster that attacks the player at the end of the game. The monster is sourced from sketch fab and came with animations that I blended in Unreal Engine.
+
+{% include gallery id="gallery2" caption="Amnesia monster asset found on sketfab animaiton blended based on speed" %}
 
 The AI functions off a behaviour tree which controls its ability to chase the player or randomly roam around the level. This ensures that if the monster loses the player or is unable to reach them, it can fall back on a random roaming behaviour and still looks natural in the game.
 
