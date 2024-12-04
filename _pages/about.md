@@ -1,3 +1,9 @@
+---
+title: "About Me"
+layout: single
+permalink: /about/
+---
+
 ## About Me
 I am a Creative Technologies MFA student at Virginia Tech. I work primarily with Virtual Reality and Games which I work on alone and with teams. Some of these projects are visible [here] with breakdowns of my contributions.
 
