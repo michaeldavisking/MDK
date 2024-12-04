@@ -40,6 +40,7 @@ I also designed the lighting and sound for the environment. I wanted a balance o
 <video width="480" height="320" controls="controls">
   <source src="/images/Transmutation_Ambient.mp4" type="video/mov">
 </video>
+
 The sounds were sourced from sound libraries and recorded by me. There is a blend of spatial noise and non spatial sound volumes. This ensures that sounds are heard properly in the spaces they should play.
 
 My other area of focus was on the AI monster that attacks the player at the end of the game. The monster is sourced from sketch fab and came with animations that I blended in Unreal Engine.
