@@ -51,7 +51,7 @@ The sounds were sourced from sound libraries and recorded by me. All sound in th
 
 The full development for this game was done in one week and was part of the Game Jam highlight video for one of the host’s YouTube Channel
 
-{% include video id="watch?v=lqiN1z7rmnc" provider="youtube" %}
+{% include video id="lqiN1z7rmnc?si=posBOXpjKGvJZRiy&t=70" provider="youtube" %}
 
 
  **Learned**
