@@ -48,10 +48,11 @@ The level was made using Synthy assets from the Unity Asset Store. Game object s
 
 The sounds were sourced from sound libraries and recorded by me. All sound in the game was spacialized so that players would hear different sounds depending on their location in the scene. For example the window of the room had a blend of the indoor rain sound and an outdoor rain sound.
 
-[Video of window sound?]
 
-The full development for this game was done in one week and was part of the Game Jam highlight video for one of the host’s YouTube Channel Link Below.
-[link]
+The full development for this game was done in one week and was part of the Game Jam highlight video for one of the host’s YouTube Channel
+
+{% include video id="watch?v=lqiN1z7rmnc" provider="youtube" %}
+
 
  **Learned**
 
