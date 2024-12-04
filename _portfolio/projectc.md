@@ -6,8 +6,8 @@ header:
   teaser: /images/transmutation_cover.png
   
 gallery1:
-  - url: /images/part1.png
-    image_path: /images/part1.png
+  - url: /images/transmutation_Layout.png
+    image_path: /images/transmutation_Layout.png
 gallery2:
   - url: /images/partdoc1.png
     image_path: /images/partdoc1.png
@@ -30,6 +30,7 @@ Transmutation was a 2024 Game Development Class Project. It is a five to seven m
 
 Development for this project was done by Myself and my cohort member Stella Park. I designed the game environment in blender and imported the assets in groups to Unreal Engine. The textures for the objects are made from free textures or simple handmade textures in the engine.
 
+{% include gallery id="gallery1" caption="A screen shot of Particles in Unreal Engine" %}
 
 
 I also designed the lighting and sound for the environment. I wanted a balance of lighting so the scene was navigable and warm while still providing a layer of unease. The sounds in the scene help to establish a more immersive environment and keep the game from being too silent. This is mainly accomplished through the ambient storm which has lighting added through a rect light that increases in intensity.
