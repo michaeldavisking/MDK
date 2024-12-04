@@ -38,7 +38,7 @@ Development for this project was done by Myself and my cohort member Stella Park
 I also designed the lighting and sound for the environment. I wanted a balance of lighting so the scene was navigable and warm while still providing a layer of unease. The sounds in the scene help to establish a more immersive environment and keep the game from being too silent. This is mainly accomplished through the ambient storm which has lighting added through a rect light that increases in intensity.
 
 <video width="480" height="320" controls="controls">
-  <source src="/images/Transmutation_Ambient.mp4" type="video/mov">
+  <source src="Transmutation_Ambient.mp4" type="video/mov">
 </video>
 
 The sounds were sourced from sound libraries and recorded by me. There is a blend of spatial noise and non spatial sound volumes. This ensures that sounds are heard properly in the spaces they should play.
