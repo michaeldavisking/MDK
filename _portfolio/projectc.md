@@ -2,8 +2,8 @@
 title: "Transmutation"
 excerpt: "Game development graduate class project. Made in Unreal Engine, December, 2024"
 header:
-  image: /images/part_running.gif
-  teaser: /images/part_running.gif
+  image: /images/transmutation_cover.png
+  teaser: /images/transmutation_cover.png
   
 gallery1:
   - url: /images/part1.png
