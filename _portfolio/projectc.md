@@ -28,7 +28,7 @@ Transmutation was a 2024 Game Development Class Project. It is a five to seven m
 
 **Development**
 
-Development for this project was done by Myself and my cohort member Stella Park. I designed the game environment in blender and imported the assets in groups to Unreal Engine. The textures for the objects are made from free textures or simple handmade textures in the engine.
+Development for this project was done by Myself and my cohort member Stella Park. I designed the game environment using a combination of Maya and Blender. I would design individual rooms, UV unwrap them, and then import them in groups to Unreal Engine. The textures for the objects are made from free textures or simple handmade textures in the engine.
 
 {% include gallery id="gallery1" caption="Above view of game layout" %}
 
