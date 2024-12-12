@@ -20,6 +20,9 @@ gallery4:
 gallery5:
   - url: /images/Boids.gif
     image_path: /images/Boids.gif
+gallery6:
+  - url: /images/NITM_Outdoor.png
+    image_path: /images/NITM_Outdoor.png
 ---
 ## Night In The Mansion
 
@@ -42,7 +45,9 @@ I was in charge of Level Design, Lighting, and Sound. I also worked on some C# c
 {% include gallery id="gallery3" caption="C# code activating the Haunted Item animations for a specified time" %}
 
 
-The level was made using Synthy assets from the Unity Asset Store. Game object segments were assembled to make a small room of the mansion along with an outdoor scene and a secret room.
+The level was made using Synthy assets from the Unity Asset Store. Game object segments were assembled to make a small room of the mansion along with an outdoor scene and a secret room. I took full advantage of the assets provided to me to make a scene that was interactable and fun for the player to explore. I wanted to make it rewarding for players who tried to do more than the game's main objective.
+
+{% include gallery id="gallery6" caption="Outdoor scene with a small creature looking into the window" %}
 
 {% include gallery id="gallery4" caption="The view outside the level window with rain particles" %}
 
