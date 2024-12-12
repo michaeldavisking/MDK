@@ -47,7 +47,7 @@ The AI functions off a behaviour tree which controls its ability to chase the pl
 
 An inclusion that helps to build suspense in the game is the camera shake that happens at two areas within the game. The first is just after the player unlocks the door to the main body of the level, and the second is after finding the hidden room where the final key is. The camera shake is followed with a monster sound and in the second there is a crackling that can be heard which hints to an increased presence of the monster or some other malevolent force.
 
-{% include video id="1Nx5QjX5zrcxD0l0qGO7QuaXwztHHITvW" provider="google-drive" %}
+{% include video id="1d27oQ0YLGNgcQV9OncAKij8vztbb75o-" provider="google-drive" %}
 
  **Learned**
 
