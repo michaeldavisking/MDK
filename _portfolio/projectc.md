@@ -45,6 +45,10 @@ My other area of focus was on the AI monster that attacks the player at the end 
 
 The AI functions off a behaviour tree which controls its ability to chase the player or randomly roam around the level. This ensures that if the monster loses the player or is unable to reach them, it can fall back on a random roaming behaviour and still looks natural in the game.
 
+An inclusion that helps to build suspense in the game is the camera shake that happens at two areas within the game. The first is just after the player unlocks the door to the main body of the level, and the second is after finding the hidden room where the final key is. The camera shake is followed with a monster sound and in the second there is a crackling that can be heard which hints to an increased presence of the monster or some other malevolent force.
+
+{% include video id="1Byd3PeZpqOCnC3KpdQ6KG2nI-zo5apTO" provider="google-drive" %}
+
  **Learned**
 
 This project allowed me to gain further experience in the Unreal Game Engine. I was able to make complex blueprints to control in-game events, design cinematic moments with sound and camera shake, and animation blend with a character sourced from sketchfab. I was able to use this experience to work more inside of Github to practice version control and game building with a team. I was able to further my experience with environmental storytelling and narrative building. Notes written by myself and edited by my partner along with custom environmental queues build suspense and feed the player small pieces of information about the world they inhabit.
