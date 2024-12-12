@@ -23,6 +23,9 @@ gallery5:
 gallery6:
   - url: /images/NITM_Outdoor.png
     image_path: /images/NITM_Outdoor.png
+gallery7:
+  - url: /images/NITM_Secret.png
+    image_path: /images/NITM_Secret.png
 ---
 ## Night In The Mansion
 
@@ -50,6 +53,8 @@ The level was made using Synthy assets from the Unity Asset Store. Game object s
 {% include gallery id="gallery6" caption="Outdoor scene with a small creature looking into the window" %}
 
 {% include gallery id="gallery4" caption="The view outside the level window with rain particles" %}
+
+{% include gallery id="gallery7" caption="Secret room discoverable by going through a wall with no colliders" %}
 
 The sounds were sourced from sound libraries and recorded by me. All sound in the game was spacialized so that players would hear different sounds depending on their location in the scene. For example the window of the room had a blend of the indoor rain sound and an outdoor rain sound.
 
