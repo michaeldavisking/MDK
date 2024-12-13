@@ -2,7 +2,7 @@
 layout: single
 ---
 
-Welcome to my portfolio website hosted on github pages!
+Welcome to my portfolio website hosted on GitHub Pages!
 
 I am a current graduate student at Virginia Tech pursuing a Master of Fine Arts in Creative Technologies. For me this is centered around Virtual Reality, Games, and Immersive Environments with a focus on interactivity and environmental storytelling.
 
