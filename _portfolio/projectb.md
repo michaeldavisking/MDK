@@ -71,6 +71,6 @@ The full development for this game was done in one week and was part of the Game
 
  **Learned**
 
-Through this project I was able to learn more about coordinating with international team members. I had worked with both people before in a previous Game Jam, but I often am paired with strangers who live in different time zones. 
+Through this project I was able to learn more about coordinating with international team members. I had worked with both people before in a previous Game Jam, but I often am paired with people I have never met who live in different time zones. 
 
 I used this jam to spend more time with lighting and sound design than I had in past games. This provided me with a great chance to experiment with ambient sounds and find prop sounds that worked well with game objects and each other. Most sounds needed to be trimmed or fixed to work in Unity which gave me time to learn more about Reaper Audio.
