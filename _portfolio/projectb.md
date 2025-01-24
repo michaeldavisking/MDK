@@ -44,9 +44,7 @@ This game placed 5th out of 23 entries with the highest ratings coming from Aest
 
 The development was done by myself and two others who were located in Germany and Austria. We would meet in discord calls during overlapped free time, but were mostly working independently and updated each other through the projects GitHub.
 
-{% include gallery id="gallery8" caption="Main room from behind the piano" %}
-
-I was in charge of Level Design, Lighting, and Sound. I also worked on some C# code to tie the VR player interactions to Unity Animation Controllers on props and the Player. Below is a “Haunted Item” function where the item plays an animation when activated, a separate script is also pictured which shows the call to the teenagers animation controller as well as adding a point to the player’s total if the teenager is not already in the sacred state.
+I was in charge of Level Design, Lighting, and Sound. Along with this I worked on C# code to tie the VR player interactions to Unity Animation Controllers on props and the Player. Below is a “Haunted Item” function where the item plays an animation when activated, a separate script is also pictured which shows the call to the teenagers animation controller as well as adding a point to the player’s total if the teenager is not already in the sacred state.
 
 {% include gallery id="gallery2" caption="C# code controlling the ability for Haunted Items to scare the Teenager" %}
 
@@ -71,6 +69,6 @@ The full development for this game was done in one week and was part of the Game
 
  **Learned**
 
-Through this project I was able to learn more about coordinating with international team members. I had worked with both people before in a previous Game Jam, but I often am paired with people I have never met who live in different time zones. 
+Through this project I was able to learn more about coordinating with international team members. I had worked with both people before in a previous Game Jam, but I often am paired with strangers who live in different time zones. 
 
 I used this jam to spend more time with lighting and sound design than I had in past games. This provided me with a great chance to experiment with ambient sounds and find prop sounds that worked well with game objects and each other. Most sounds needed to be trimmed or fixed to work in Unity which gave me time to learn more about Reaper Audio.
