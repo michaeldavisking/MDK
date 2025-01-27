@@ -2,15 +2,15 @@
 title: "Transmutation"
 excerpt: "Game development graduate class project. Made in Unreal Engine, December, 2024"
 header:
-  image: /images/part_running.gif
-  teaser: /images/part_running.gif
+  image: images/transmutation_cover.png
+  teaser: images/transmutation_cover.png
   
 gallery1:
-  - url: /images/part1.png
-    image_path: /images/part1.png
+  - url: images/transmutation_Layout.png
+    image_path: images/transmutation_Layout.png
 gallery2:
-  - url: /images/partdoc1.png
-    image_path: /images/partdoc1.png
+  - url: images/transumtationblend.gif
+    image_path: images/transumtationblend.gif
 gallery3:
   - url: /images/partdoc2.png
     image_path: /images/partdoc2.png
