@@ -3,8 +3,8 @@ title: "Vauquois"
 excerpt: "Applied Research in Immersive Experiences and Simulations project, ongoing"
 
 header:
-  image: images/transmutation_cover.png
-  teaser: images/transmutation_cover.png
+  image: images/AV_cover.png
+  teaser: images/AV_cover.png
   
 gallery1:
   - url: images/transmutation_Layout.png
