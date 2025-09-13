@@ -1,6 +1,7 @@
 ---
 title: "Vauquois"
-excerpt: "Applied Research in Immersive Experiences and Simulations project"
+excerpt: "Applied Research in Immersive Experiences and Simulations project, ongoing"
+
 header:
   image: images/transmutation_cover.png
   teaser: images/transmutation_cover.png
