@@ -1,6 +1,6 @@
 ---
-title: "Transmutation"
-excerpt: "Game development graduate class project. Made in Unreal Engine, December, 2024"
+title: "Vauquois"
+excerpt: "Applied Research in Immersive Experiences and Simulations project"
 header:
   image: images/transmutation_cover.png
   teaser: images/transmutation_cover.png
@@ -23,29 +23,21 @@ gallery5:
 ---
 **Introduction**
 
-Transmutation was a 2024 Game Development Class Project. It is a five to seven minute horror experience where the player has been called by a research colleague to recover their documents after an experiment gone wrong. They have to collect keys to unlock doors leading to the documents and are killed by a monster before they have recovered anything or escape from the mansion.
+Vauquois is a long term ARIES project dedicated to the creation of an authentic representation of the tunnels of Vauquois. These tunnels were the site of German and French confrontations beneath a hilltop village in an attempt to prevent German forces from maintaining control of a critical viewing and gun platform during the battle of Verdun. 
 
 **Development**
 
-Development for this project was done by Myself and my cohort member Stella Park. I designed the game environment using a combination of Maya and Blender. I would design individual rooms, UV unwrap them, and then import them in groups to Unreal Engine. The textures for the objects are made from free textures or simple handmade textures in the engine.
+I was assigned to take previously captured Faro Scan and GeoSLAM point clouds from Scene to Maya and/or Blender to build a 3D mesh before polishing and retopologizing them to be compatible with Unreal Engine 5.6.
 
-{% include gallery id="gallery1" caption="Above view of game layout" %}
+The polished and game ready meshes were textured in Adobe Substance Painter and carefully labeled and stored in the event of any necessary adjustments or additions to the meshes or textures. I designed all assets to work with Nantie and Lumen to allow efficient and volumetric lighting that remained compatible with Virtual Reality Viewing from the Meta Quest 3.
+
+{% include gallery id="gallery1" caption="	t" %}
 
 
-I contributed to the environment further by adding the lighting and ambient sounds. I wanted a balance of lighting so the scene was navigable and warm while still providing a layer of unease. The sounds in the scene help to establish a more immersive environment to keep the players focused on the game and provide depth to inputs like opening doors. The ambient sound is accomplished through the ambient storm which has lighting added through a rect light that increases in intensity. I put focus into decoration when possible in the time frame of the class in order to establish a time period and make the mansion appear more lived in. gas lamps, minimal electric lighting, and paintings of King Edward establish a year in the early 1900s and a setting somewhere in England.
+In addition to texturing and modeling I coordinated with the assigned programmer to optimize levels in Unreal to allow higher polygon count meshes in order to balance the desire for an authentic representation of the tunnels and the needs of a VR experience. 
 
 {% include video id="1Byd3PeZpqOCnC3KpdQ6KG2nI-zo5apTO" provider="google-drive" %}
   
-The sounds were sourced from sound libraries and recorded by me. There is a blend of spatial noise and non spatial sound volumes. This ensures that sounds are heard properly in the spaces they should play.
-
-My other area of focus was on the AI monster that attacks the player at the end of the game. The monster is sourced from sketch fab and came with animations that I blended in Unreal Engine.
+I had control over the project file organization and version control managed through Perforce. I managed files across multiple cloud storages and also documented my workflow to benefit the future development of the project.
 
 {% include gallery id="gallery2" caption="Amnesia monster asset found on sketchfab animation blended based on speed" %}
-
-The AI functions off a behaviour tree which controls its ability to chase the player or randomly roam around the level. This ensures that if the monster loses the player or is unable to reach them, it can fall back on a random roaming behaviour and still looks natural in the game.
-
-An inclusion that helps to build suspense in the game is the camera shake that happens at two areas within the game. The first is just after the player unlocks the door to the main body of the level, and the second is after finding the hidden room where the final key is. The camera shake is followed with a monster sound and in the second there is a crackling that can be heard which hints to an increased presence of the monster or some other malevolent force. 
-
- **Learned**
-
-This project allowed me to gain further experience in the Unreal Game Engine. I was able to make complex blueprints to control in-game events, design cinematic moments with sound and camera shake, and animation blend with a character sourced from sketchfab. I was able to use this experience to work more inside of Github to practice version control and game building with a team. I used my time to build a narrative environment and consider how simple decorative choices can provide information on the setting. Notes written by myself and edited by my partner along with custom environmental queues build suspense and feed the player small pieces of information about the world they inhabit.
