@@ -39,9 +39,7 @@ The polished and game ready meshes were textured in Adobe Substance Painter and 
 
 
 In addition to texturing and modeling I coordinated with the assigned programmer to optimize levels in Unreal to allow higher polygon count meshes in order to balance the desire for an authentic representation of the tunnels and the needs of a VR experience. 
-
-{% include video id="1Byd3PeZpqOCnC3KpdQ6KG2nI-zo5apTO" provider="google-drive" %}
   
 I had control over the project file organization and version control managed through Perforce. I managed files across multiple cloud storages and also documented my workflow to benefit the future development of the project.
 
-{% include gallery id="gallery2" caption="Amnesia monster asset found on sketchfab animation blended based on speed" %}
+
