@@ -16,8 +16,8 @@ gallery3:
   - url: /images/AV_Junction_remesh_Unreal.png
     image_path: /images/AV_Junction_remesh_Unreal.png
 gallery4:
-  - url: /images/AV_tunnel_Junction_unreal_with_lighting.png
-    image_path: /images/AV_tunnel_Junction_unreal_with_lighting.png
+  - url: /images/AV_Tunnel_Junction_unreal_with_lighting.png
+    image_path: /images/AV_Tunnel_Junction_unreal_with_lighting.png
 gallery5:
   - url: /images/Boids.gif
     image_path: /images/Boids.gif
