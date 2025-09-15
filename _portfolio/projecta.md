@@ -7,14 +7,14 @@ header:
   teaser: images/AV_Cover.png
   
 gallery1:
-  - url: images/transmutation_Layout.png
-    image_path: images/transmutation_Layout.png
+  - url: images/AV_Junction_Blender.png
+    image_path: images/AV_Junction_Blender.png
 gallery2:
-  - url: images/transumtationblend.gif
-    image_path: images/transumtationblend.gif
+  - url: images/AV_Junction_Scene.png
+    image_path: images/AV_Junction_Scene.png
 gallery3:
-  - url: /images/partdoc2.png
-    image_path: /images/partdoc2.png
+  - url: /images/AV_Junction_remesh_Unreal.png
+    image_path: /images/AV_Junction_remesh_Unreal.png
 gallery4:
   - url: /images/partdoc2.png
     image_path: /images/part_space.jpg
@@ -32,7 +32,9 @@ I was assigned to take previously captured Faro Scan and GeoSLAM point clouds fr
 
 The polished and game ready meshes were textured in Adobe Substance Painter and carefully labeled and stored in the event of any necessary adjustments or additions to the meshes or textures. I designed all assets to work with Nantie and Lumen to allow efficient and volumetric lighting that remained compatible with Virtual Reality Viewing from the Meta Quest 3.
 
-{% include gallery id="gallery1" caption="	t" %}
+{% include gallery id="gallery2" caption="Tunnel Junction in scene Project. Junction is made from a combination of Faro and GeoSLAM point clouds" %}
+{% include gallery id="gallery1" caption="Tunnel Junction in Blender, point coulds are converted to highpoly tri-meshes" %}
+{% include gallery id="gallery3" caption="Tunnel Junction in Unreal Engine after remeshing and touch up in Zbrush" %}
 
 
 In addition to texturing and modeling I coordinated with the assigned programmer to optimize levels in Unreal to allow higher polygon count meshes in order to balance the desire for an authentic representation of the tunnels and the needs of a VR experience. 
