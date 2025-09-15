@@ -16,8 +16,8 @@ gallery3:
   - url: /images/AV_Junction_remesh_Unreal.png
     image_path: /images/AV_Junction_remesh_Unreal.png
 gallery4:
-  - url: /images/partdoc2.png
-    image_path: /images/part_space.jpg
+  - url: /images/AV_tunnel_Junction_unreal_with_lighting.png
+    image_path: /images/AV_tunnel_Junction_unreal_with_lighting.png
 gallery5:
   - url: /images/Boids.gif
     image_path: /images/Boids.gif
@@ -35,6 +35,7 @@ The polished and game ready meshes were textured in Adobe Substance Painter and 
 {% include gallery id="gallery2" caption="Tunnel Junction in scene Project. Junction is made from a combination of Faro and GeoSLAM point clouds" %}
 {% include gallery id="gallery1" caption="Tunnel Junction in Blender, point coulds are converted to highpoly tri-meshes" %}
 {% include gallery id="gallery3" caption="Tunnel Junction in Unreal Engine after remeshing and touch up in Zbrush" %}
+{% include gallery id="gallery4" caption="Tunnel Junction in Unreal Engine with inital lighting pass" %}
 
 
 In addition to texturing and modeling I coordinated with the assigned programmer to optimize levels in Unreal to allow higher polygon count meshes in order to balance the desire for an authentic representation of the tunnels and the needs of a VR experience. 
