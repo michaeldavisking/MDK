@@ -41,5 +41,6 @@ The polished and game ready meshes were textured in Adobe Substance Painter and 
 In addition to texturing and modeling I coordinated with the assigned programmer to optimize levels in Unreal to allow higher polygon count meshes in order to balance the desire for an authentic representation of the tunnels and the needs of a VR experience. 
   
 I had control over the project file organization and version control managed through Perforce. I managed files across multiple cloud storages and also documented my workflow to benefit the future development of the project.
+{% include video id="1Y_kw4uwHOM8srErhW_dJy-6TWU4LyhR9" provider="google-drive" %}
 
 
