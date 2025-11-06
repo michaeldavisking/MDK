@@ -1,6 +1,6 @@
 ---
 title: "Particles"
-excerpt: "Interactable particles in Virtual Reality. Made in Unreal Engine, November, 2024"
+excerpt: "Interactable particles in Virtual Reality. Made in Unreal Engine. Displayed at Birdblock Cermaic Studio, 2024"
 header:
   image: /images/part_running.gif
   teaser: /images/part_running.gif
