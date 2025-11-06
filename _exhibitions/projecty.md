@@ -1,6 +1,6 @@
 ---
 title: "Put Me On"
-excerpt: "Voice activated particles in Virtual Reality. Made in Unreal Engine. Displayed at Birdblock Ceramic Studio, 2025"
+excerpt: "Voice activated particles in Virtual Reality. Made in Unreal Engine. Displayed at Birdblock Ceramics Studio, 2025"
 header:
   image: /images/putmo_running.gif
   teaser: /images/putmo_running.gif
