@@ -331,6 +331,15 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _exhibitions
+  - scope:
+      path: ""
+      type: exhibitions
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
 collections:
   portfolio:
