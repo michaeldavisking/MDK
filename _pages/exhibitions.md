@@ -1,7 +1,7 @@
 ---
 title: Exhibitions
 layout: collection
-permalink: /exhibition/
+permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
