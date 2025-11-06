@@ -336,7 +336,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-collections:
+exhibitions:
   exhibitions:
     output: true
     permalink: /:exhibitions/:path/
