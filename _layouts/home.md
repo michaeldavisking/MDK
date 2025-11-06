@@ -2,6 +2,4 @@
 layout: single
 ---
 
-Welcome to my portfolio website hosted on GitHub Pages!
-
-I am a current graduate student at Virginia Tech pursuing a Masters of Fine Arts in Creative Technologies. To see some of my work click on portfolio. To learn more about me and my skills, click on about.
+Michael Davis-King is an immersive environment artist specialising in 3D immersive Virtual Reality and physical space installation. Michael’s professional work in VR ranges from 3D environmental design and simulations to interactive art exhibits. Michael’s physical immersive works blend fiber arts and animatronics to create touchable moving sculptures that promote atypical engagements with art. 
