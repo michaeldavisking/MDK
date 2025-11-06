@@ -347,4 +347,4 @@ collections:
     permalink: /:collection/:path/
   exhibitions:
     output: true
-    permalink: /:exhibitions/:path/
+    permalink: /:collection/:path/
