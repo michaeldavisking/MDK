@@ -2,7 +2,7 @@
 title: Exhibitions
 layout: collection
 permalink: /exhibitions/
-collection: portfolio
+collection: exhibitions
 entries_layout: grid
 classes: wide
 ---
