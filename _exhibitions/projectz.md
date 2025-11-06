@@ -15,7 +15,7 @@ gallery3:
   - url: /images/partdoc2.png
     image_path: /images/partdoc2.png
 gallery4:
-  - url: /images/partdoc2.png
+  - url: /images/part_space.jpg
     image_path: /images/part_space.jpg
 gallery5:
   - url: /images/Boids.gif
