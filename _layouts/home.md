@@ -1,6 +1,5 @@
 ---
 layout: splash
-permalink: /splash-page/ # Or your desired URL path
 header:
 overlay_image: /assets/images/GA_M.gif # Path to your image
 overlay_filter: 0.5 # Optional: Adjust image overlay opacity
