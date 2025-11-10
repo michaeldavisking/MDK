@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 header:
   image: images/GA_M.gif
 ---
