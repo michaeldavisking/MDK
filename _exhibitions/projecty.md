@@ -40,9 +40,3 @@ Put Me On uses Particles as a template project, changing the spline to a single 
 
 
 {% include gallery id="gallery3" caption="" %}
-
-**Display**
-
-Particles was displayed in a small back room of Bird Block Gallery and Ceramics Studio in Blacksburg Virginia. It ran without interruption for several hours with no technical issues.
-
-{% include gallery id="gallery4" caption="Particles during setup" %}
