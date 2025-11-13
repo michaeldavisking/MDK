@@ -2,7 +2,7 @@
 title: "Making my Wool on Wood Animatronic Part 1"
 header:
   video:
-    id: 16yxj2Ld6uqzYyNheqwynPOQUbOc9-N2J
+    id: Xygxst4YAEY
     provider: youtube
 categories:
   - Layout
