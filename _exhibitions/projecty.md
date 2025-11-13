@@ -29,7 +29,7 @@ gallery5:
 Put Me On builds on Particles to introduce a sound activated interactable particle. Guests at the Bird Block exhibition were asked to explore the range of colors that are created through changes in pitch which will change the rgb values of the particle texture in real time. 
 
 
-{% include gallery id="gallery1" caption="A screen shot of Particles in Unreal Engine" %}
+{% include gallery id="gallery1" caption="A screen shot of Put Me On in Unreal Engine" %}
 
 **Development**
 
