@@ -12,8 +12,8 @@ gallery2:
   - url: /images/putmo2.png
     image_path: /images/putmo2.png
 gallery3:
-  - url: /images/putmo3.png
-    image_path: /images/putmo3.png
+  - url: /images/putmo3.jpg
+    image_path: /images/putmo3.jpg
 gallery4:
   - url: /images/partdoc2.png
     image_path: /images/part_space.jpg
@@ -35,7 +35,10 @@ Put Me On builds on Particles to introduce a sound activated interactable partic
 
 Put Me On uses Particles as a template project, changing the spline to a single point of attraction that will slowly pull in all the particles. Guests are able to move the particles with their hands using an expanded physics interaction that places point forces on each xr hand joint allowing for high fidelity interaction. The volume of the person in the headset will also control the rate at which the particles move on their own through randomized physics forces.
 
-{% include gallery id="gallery2" caption="" %}
+**Display**
+Put Me On was displayed in the Bird Block gallery where it ran independantly for 4 hours. It was displayed on a Oculus Quest 3 headset connected to a standard Gaming Laptop.
+
+{% include gallery id="gallery2" caption="Put Me On display" %}
 
 
 
