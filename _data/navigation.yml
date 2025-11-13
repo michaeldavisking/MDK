@@ -4,8 +4,8 @@ main:
     url: /portfolio/
   - title: "Exhibitions"
     url: /exhibitions/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  # - title: "Posts"
+  #   url: /archive/
 #  - title: "Sample Collections"
  #   url: /collection-archive/
   # - title: "Sitemap"
