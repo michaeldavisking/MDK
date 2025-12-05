@@ -18,8 +18,8 @@ gallery4:
   - url: /images/BE25_4.jpg
     image_path: /images/BE25_4.jpg
 gallery5:
-  - url: /images/Boids.gif
-    image_path: /images/Boids.gif
+  - url: /images/BE25_5.jpg
+    image_path: /images/BE25_5.jpg
 ---
 
 ## Particles
@@ -50,4 +50,6 @@ For the making of the arm and future arms for the project I would like to direct
 {% include gallery id="gallery4" caption="Arm connected to larger body" %}
 
 I would anticipate an even more detailed breakdown of the process when I finish my masters thesis in spring of 2026. If you have questions about this project please feel free to contact me at michaeldavisking@gmail.com or through the email button on my landing page!
+
+{% include gallery id="gallery5" caption="An image of Gregory post display in my on campus studio" %}
 
